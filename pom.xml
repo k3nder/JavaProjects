@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>net.kristian</groupId>
-  <artifactId>JavaProject</artifactId>
+  <artifactId>java-utils</artifactId>
   <version>1.0.0</version>
 
   <name>JavaProject</name>
@@ -22,7 +22,7 @@
   <repositories>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/k3nder/JavaProjects</url>
+			<url>https://maven.pkg.github.com/k3nder/javaprojects</url>
 		</repository>
 	</repositories>
 
@@ -30,7 +30,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub OWNER Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/k3nder/JavaProjects</url>
+			<url>https://maven.pkg.github.com/k3nder/javaprojects</url>
 		</repository>
 	</distributionManagement>
 
